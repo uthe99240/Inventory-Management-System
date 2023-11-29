@@ -59,11 +59,6 @@ class ProductsTableSeeder extends Seeder
                 'quantity' => 99,
                 'price' => 225,
             ],
-            [
-                'name' => 'Product J',
-                'quantity' => 111,
-                'price' => 125,
-            ],
         ]);
     }
 }
