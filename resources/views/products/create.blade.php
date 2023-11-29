@@ -28,21 +28,21 @@
                                     <div class="form-group">
                                         <strong>Name:</strong>
                                         <input type="text" name="name" class="form-control"
-                                            placeholder="Enter Product Name">
+                                            placeholder="Enter Product Name" value="{{ old('name') }}">
                                     </div>
                                 </div>
                                 <div class="col-xs-12 col-sm-12 col-md-12 pb-2">
                                     <div class="form-group">
                                         <strong>Quantity:</strong>
                                         <input type="number" name="quantity" class="form-control"
-                                            placeholder="Enter Product Quantity">
+                                            placeholder="Enter Product Quantity" value="{{ old('quantity') }}">
                                     </div>
                                 </div>
                                 <div class="col-xs-12 col-sm-12 col-md-12 pb-2">
                                     <div class="form-group">
                                         <strong>Price:</strong>
                                         <input type="number" name="price" class="form-control"
-                                            placeholder="Enter Product Price">
+                                            placeholder="Enter Product Price" value="{{ old('price') }}">
                                     </div>
                                 </div>
                                 <div class="col-xs-12 col-sm-12 col-md-12 text-end">
