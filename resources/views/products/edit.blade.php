@@ -5,7 +5,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card">
-                    <div class="card-header d-flex justify-content-between"><span>Add New Product</span><a
+                    <div class="card-header d-flex justify-content-between"><span>Edit Product</span><a
                             class="btn btn-primary" href="{{ route('products.index') }}"> Back</a></div>
 
                     <div class="card-body">
