@@ -22,8 +22,8 @@
 -   `cp .env.example .env`
 -   Update database information in `.env`
 -   `php artisan key:generate`
--   `php artisan migrate`
--   `php artisan db:seed --class=ProductsTableSeeder`
 -   `npm install`
 -   `npm run build`
+-   `php artisan migrate`
+-   `php artisan db:seed --class=ProductsTableSeeder`
 -   `php artisan serve`
