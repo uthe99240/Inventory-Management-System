@@ -24,4 +24,6 @@
 -   `php artisan key:generate`
 -   `php artisan migrate`
 -   `php artisan db:seed --class=ProductsTableSeeder`
+-   `npm install`
+-   `npm run build`
 -   `php artisan serve`
